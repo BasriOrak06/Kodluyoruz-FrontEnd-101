@@ -1,0 +1,24 @@
+.header {
+    color: #E80F88;
+    text-align: center;
+}
+
+.mediumorchid {
+    color: mediumorchid;
+}
+
+.darkorchid {
+    color:darkorchid;
+}
+
+.body {
+    text-align: center;
+    font-family: Futura sans-serif;
+}
+
+.ikiyanayasla-paragraf {
+    text-align: justify;
+}
+.image {
+    width: 300px;
+}
