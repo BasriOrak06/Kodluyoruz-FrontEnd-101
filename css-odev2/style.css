@@ -1,0 +1,44 @@
+.img {
+    margin:5% 30%;
+}
+
+.container {
+    background-color: #EEEEEE;
+    text-align: center;
+    padding: 2px;
+
+}
+.btn {
+    margin: 5px;
+    border: dimgrey;
+}
+
+.box1 {
+    background-color: #7EE5DA;
+    width: fit-content;
+    height: 75px;
+    padding: 10px 10%;
+    margin-right: 3px;
+    position: relative;
+    float: left;
+}
+
+.box2 {
+    background-color: #70CCC2;
+    width: fit-content;
+    height: 75px;
+    padding: 10px 5%;
+    margin-right: 3px;
+    position: relative;
+    float: left;
+
+}
+.box3 {
+    background-color: #62B3AA;
+    width: fit-content;
+    height: 75px;
+    padding: 10px 14.95%;
+    position: relative;
+    float: left;
+
+}
